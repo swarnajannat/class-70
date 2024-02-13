@@ -1,0 +1,64 @@
+/* hr{
+    width: 200px;
+    border: 3px solid black;
+    border-bottom: none;
+    margin: 0 auto;
+} */
+
+.hr-style{
+    width: 100px;
+    border: 2px solid black;
+    margin: 0 auto;
+}
+   
+
+
+        
+footer{
+    background-color: #448CFA
+    
+
+}
+footer a {
+    text-decoration: none;
+    color: white;
+}
+/* caed desing    */
+ .my-card{
+    box-shadow: 2px 2px 10px rgba(128, 128, 128, 0.425);
+    border-radius: 10px;
+
+ }
+
+
+
+/* .row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer{
+    background-color: #448CFA;
+    padding: 70px 0;
+}
+.footer-call{
+    width: 25%;
+    padding: 0 15px;
+
+}
+.footer-call ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 0 auto;
+    font-weight:200 ;
+
+}
+.footer-call h4{
+    font-size: 2rem;
+    margin-bottom:25px ;
+    font-weight: 500;
+    position: relative;
+    justify-content: center ;
+} */
